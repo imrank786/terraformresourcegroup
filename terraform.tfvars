@@ -1,2 +1,2 @@
-resourcegroup         = "firstRG"
+resourcegroup         = "firstRGone"
 resourcegrouplocation = "West Europe"
